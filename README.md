@@ -1,5 +1,3 @@
-ABOUT ME
---------
 👋 Hi there, I'm Kailash!
 🎓 Done Master’s in Computer & Information Sciences
 
