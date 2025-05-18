@@ -11,7 +11,6 @@ NumPy | Pandas | Matplotlib | Seaborn
 
 📊 Exploratory Data Analysis (EDA)
 
-🧠 Next Up:
 🤖 Machine Learning & AI
 Tools, Algorithms, and Real-world Applications
 
