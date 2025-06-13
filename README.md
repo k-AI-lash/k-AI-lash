@@ -1,10 +1,11 @@
 👋 Hi there, I'm Kailash!
 🎓 Done Master’s in Computer & Information Sciences
 
-📍 Currently pursuing Machine Learning & AI certification
+📍 Currently pursuing certification (Online) on Machine Learning & AI
 🏫 University of Texas, Austin
 
 🚀 My Learning Journey
+
 🔧 Currently Working On:
 🐍 Python & Core Libraries
 NumPy | Pandas | Matplotlib | Seaborn
