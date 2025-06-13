@@ -6,12 +6,12 @@
 
 🚀 My Learning Journey
 
-🔧 Currently Working On:
 🐍 Python & Core Libraries
 NumPy | Pandas | Matplotlib | Seaborn
 
 📊 Exploratory Data Analysis (EDA)
 
+🔧 Currently Working On:
 🤖 Machine Learning & AI
 Tools, Algorithms, and Real-world Applications
 
