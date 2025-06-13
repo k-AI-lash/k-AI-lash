@@ -29,6 +29,8 @@ Autonomous Agents | LangChain | Auto-GPT
 🕒 Eager to contribute in my free time to meaningful AI projects
 🤝 Looking to collaborate, learn, and grow with the open-source community
 
+Note: Currently repos are in private mode.
+
 📫 Let's Connect!
 Feel free to reach out or connect with me if you're working on anything related to AI, ML, or open-source projects.
 Email: kailash.ml.ai@outlook.com
