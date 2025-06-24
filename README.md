@@ -1,6 +1,6 @@
 👋 Hi there, I'm Kailash!
 🎓 Done Master’s in Computer & Information Sciences
-
+    Java Full stack Developer eager to learn AI and related technologies.
 📍 Currently pursuing certification (Online) on Machine Learning & AI
 🏫 University of Texas, Austin
 
